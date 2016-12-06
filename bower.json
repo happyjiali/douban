@@ -1,0 +1,17 @@
+{
+  "name": "douban-movie-list",
+  "description": "movie list",
+  "main": "index.js",
+  "authors": [
+    "jiali"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/happyjiali/douban",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
